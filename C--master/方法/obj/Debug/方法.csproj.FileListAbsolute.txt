@@ -1,0 +1,7 @@
+G:\Project\01枚举\方法\bin\Debug\方法.exe.config
+G:\Project\01枚举\方法\bin\Debug\方法.exe
+G:\Project\01枚举\方法\bin\Debug\方法.pdb
+G:\Project\01枚举\方法\obj\Debug\方法.csprojAssemblyReference.cache
+G:\Project\01枚举\方法\obj\Debug\方法.csproj.CoreCompileInputs.cache
+G:\Project\01枚举\方法\obj\Debug\方法.exe
+G:\Project\01枚举\方法\obj\Debug\方法.pdb

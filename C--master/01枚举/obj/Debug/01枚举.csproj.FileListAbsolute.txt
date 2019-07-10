@@ -1,0 +1,7 @@
+G:\Project\01枚举\01枚举\bin\Debug\01枚举.exe.config
+G:\Project\01枚举\01枚举\bin\Debug\01枚举.exe
+G:\Project\01枚举\01枚举\bin\Debug\01枚举.pdb
+G:\Project\01枚举\01枚举\obj\Debug\01枚举.csprojAssemblyReference.cache
+G:\Project\01枚举\01枚举\obj\Debug\01枚举.csproj.CoreCompileInputs.cache
+G:\Project\01枚举\01枚举\obj\Debug\01枚举.exe
+G:\Project\01枚举\01枚举\obj\Debug\01枚举.pdb

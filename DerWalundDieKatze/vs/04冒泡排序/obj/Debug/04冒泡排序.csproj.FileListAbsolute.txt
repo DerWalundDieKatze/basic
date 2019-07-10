@@ -1,0 +1,7 @@
+G:\Project\01枚举\04冒泡排序\bin\Debug\04冒泡排序.exe.config
+G:\Project\01枚举\04冒泡排序\bin\Debug\04冒泡排序.exe
+G:\Project\01枚举\04冒泡排序\bin\Debug\04冒泡排序.pdb
+G:\Project\01枚举\04冒泡排序\obj\Debug\04冒泡排序.csprojAssemblyReference.cache
+G:\Project\01枚举\04冒泡排序\obj\Debug\04冒泡排序.csproj.CoreCompileInputs.cache
+G:\Project\01枚举\04冒泡排序\obj\Debug\04冒泡排序.exe
+G:\Project\01枚举\04冒泡排序\obj\Debug\04冒泡排序.pdb

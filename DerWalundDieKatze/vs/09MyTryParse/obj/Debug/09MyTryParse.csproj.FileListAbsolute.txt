@@ -1,0 +1,7 @@
+G:\Project\01枚举\09MyTryParse\bin\Debug\09MyTryParse.exe.config
+G:\Project\01枚举\09MyTryParse\bin\Debug\09MyTryParse.exe
+G:\Project\01枚举\09MyTryParse\bin\Debug\09MyTryParse.pdb
+G:\Project\01枚举\09MyTryParse\obj\Debug\09MyTryParse.csprojAssemblyReference.cache
+G:\Project\01枚举\09MyTryParse\obj\Debug\09MyTryParse.csproj.CoreCompileInputs.cache
+G:\Project\01枚举\09MyTryParse\obj\Debug\09MyTryParse.exe
+G:\Project\01枚举\09MyTryParse\obj\Debug\09MyTryParse.pdb

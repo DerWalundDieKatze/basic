@@ -1,0 +1,7 @@
+G:\Project\DerWalundDieKatze\vs\13方法的练习\bin\Debug\13方法的练习.exe.config
+G:\Project\DerWalundDieKatze\vs\13方法的练习\bin\Debug\13方法的练习.exe
+G:\Project\DerWalundDieKatze\vs\13方法的练习\bin\Debug\13方法的练习.pdb
+G:\Project\DerWalundDieKatze\vs\13方法的练习\obj\Debug\13方法的练习.csprojAssemblyReference.cache
+G:\Project\DerWalundDieKatze\vs\13方法的练习\obj\Debug\13方法的练习.csproj.CoreCompileInputs.cache
+G:\Project\DerWalundDieKatze\vs\13方法的练习\obj\Debug\13方法的练习.exe
+G:\Project\DerWalundDieKatze\vs\13方法的练习\obj\Debug\13方法的练习.pdb

@@ -1,0 +1,7 @@
+G:\Project\01枚举\05让方法返回多个值\bin\Debug\05让方法返回多个值.exe.config
+G:\Project\01枚举\05让方法返回多个值\bin\Debug\05让方法返回多个值.exe
+G:\Project\01枚举\05让方法返回多个值\bin\Debug\05让方法返回多个值.pdb
+G:\Project\01枚举\05让方法返回多个值\obj\Debug\05让方法返回多个值.csprojAssemblyReference.cache
+G:\Project\01枚举\05让方法返回多个值\obj\Debug\05让方法返回多个值.csproj.CoreCompileInputs.cache
+G:\Project\01枚举\05让方法返回多个值\obj\Debug\05让方法返回多个值.exe
+G:\Project\01枚举\05让方法返回多个值\obj\Debug\05让方法返回多个值.pdb

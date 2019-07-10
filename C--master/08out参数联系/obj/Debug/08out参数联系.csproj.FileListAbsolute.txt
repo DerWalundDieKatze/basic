@@ -1,0 +1,7 @@
+G:\Project\01枚举\08out参数联系\bin\Debug\08out参数联系.exe.config
+G:\Project\01枚举\08out参数联系\bin\Debug\08out参数联系.exe
+G:\Project\01枚举\08out参数联系\bin\Debug\08out参数联系.pdb
+G:\Project\01枚举\08out参数联系\obj\Debug\08out参数联系.csprojAssemblyReference.cache
+G:\Project\01枚举\08out参数联系\obj\Debug\08out参数联系.csproj.CoreCompileInputs.cache
+G:\Project\01枚举\08out参数联系\obj\Debug\08out参数联系.exe
+G:\Project\01枚举\08out参数联系\obj\Debug\08out参数联系.pdb
